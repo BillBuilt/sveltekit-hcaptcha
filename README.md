@@ -6,7 +6,7 @@ Inspired by https://github.com/rodneylab/sveltekit-hcaptcha-form - Thank you, it
 ## About
 A simple component to use hCaptcha in your Svelte powered app.
 Tested with SvelteKit but I see no reason why it shouldn't work with plain Svelte with some minor modifications mainly around the use of `$app/env`.
->If you were able to get this working with plain Svelte, please let me know here!
+>If you were able to get this working with plain Svelte, please let me know!
 
 
 ## Usage
